@@ -1,0 +1,19 @@
+* 5d379e0 (HEAD -> feature/quote-form) docs: add BEFORE log (messy history)
+* 7f423f7 wip: fix stuff
+* adafab4 wip: trying new approach
+* 70096d8 wip: minor
+* a51df6f feat: add quote form basic fields
+* 1e50d2a feat: product list UI
+| * 9adf309 (origin/feature/quote-form) docs: add BEFORE log (messy history)
+| *   f34c734 merge: main into feature/quote-form
+| |\  
+| |/  
+|/|   
+* | 22c0a3b (main) chore: update README
+| * 6ceeeb4 wip: fix stuff
+| * c7addc9 wip: trying new approach
+| * d20c30f wip: minor
+| * 277fb09 feat: add quote form basic fields
+| * 231d051 feat: product list UI
+|/  
+* b9ceb85 (origin/main) chore: initial commit
