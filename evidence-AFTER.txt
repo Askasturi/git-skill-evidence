@@ -1,12 +1,6 @@
-* d71d1c4 (HEAD -> feature/quote-form) docs: add AFTER log (post interactive rebase)
+* 43590cb (HEAD -> feature/quote-form, origin/feature/quote-form) docs: add AFTER log (post interactive rebase)
+* d71d1c4 docs: add AFTER log (post interactive rebase)
 * 6ec8d05 feat: add quote form basic fields
-| * 20ad7b9 (origin/feature/quote-form) docs: add AFTER log (post interactive rebase)
-| * 5d379e0 docs: add BEFORE log (messy history)
-| * 7f423f7 wip: fix stuff
-| * adafab4 wip: trying new approach
-| * 70096d8 wip: minor
-| * a51df6f feat: add quote form basic fields
-|/  
 * 1e50d2a feat: product list UI
 * 22c0a3b (main) chore: update README
 * b9ceb85 (origin/main) chore: initial commit
